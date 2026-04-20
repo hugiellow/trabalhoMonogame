@@ -14,7 +14,7 @@ O movimento do jogador é tratado através de input do teclado, enquanto a físi
 A gravidade é aplicada continuamente ao jogador, simulando um comportamento realista de queda. As colisões são tratadas para impedir que a personagem atravesse o chão.
 
 ## Decisões de Implementação
-- Uso de sprites 2D para representar personagens
+- Uso de sprites 2D para representar o personagem
 - Separação entre lógica de jogo e rendering
 - Uso de tilemap para o nível
 
