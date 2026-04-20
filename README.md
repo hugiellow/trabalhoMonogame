@@ -20,7 +20,7 @@ A gravidade é aplicada continuamente ao jogador, simulando um comportamento rea
 
  ## Teclas
 - Setas / A-D: mover personagem
-- Espaço/ W / Seta para cima: saltar
+- Espaço / W / Seta para cima: saltar
 - **Objetivo:** chegar ao fim do nível
   
 ## Estrutura do Projeto
