@@ -9,7 +9,7 @@ O Platformer2D é um jogo de plataformas onde o jogador controla uma personagem 
 
 ## Implementação
 O jogo foi desenvolvido em C# utilizando o framework MonoGame. 
-A estrutura principal baseia-se na classe Game, com os métodos Update e Draw.
+A estrutura principal baseia-se na classe PlatformerGame, com os métodos Update e Draw.
 O movimento do jogador é tratado através de input do teclado, enquanto a física (gravidade e saltos) é implementada manualmente.
 A gravidade é aplicada continuamente ao jogador, simulando um comportamento realista de queda. As colisões são tratadas para impedir que a personagem atravesse o chão.
 
