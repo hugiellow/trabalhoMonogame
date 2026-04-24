@@ -30,7 +30,7 @@ A gravidade é aplicada continuamente ao jogador, simulando um comportamento rea
   
 ## Análise do Código
 1. **Gestão de Input:** O código utiliza "Keyboard.GetState()" para detetar comandos em tempo real.
-2. **Sistema de Colisões:** Implementado na classe "Level.cs", verificando a interseção entre o retângulo do jogador e os tiles adjacentes.
+2. **Sistema de Colisões:** Implementado na classe "Player.cs", verificando a interseção entre o retângulo do jogador e os tiles adjacentes.
 3. **Animação:** A classe "AnimationPlayer.cs" gere a troca de frames dos sprites baseada no tempo decorrido ("gameTime").
 
 ## Créditos e Referências
